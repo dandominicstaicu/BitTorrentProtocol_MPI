@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b5328c4e-e198-45d4-95d5-7073bdee142d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../laboratoare/lab03/merge" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laboratoare/lab03/oets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laboratoare/lab03/parallel_binary_search" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laboratoare/lab03/shear" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laboratoare/lab04/src/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laboratoare/lab04/src/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laboratoare/lab04/src/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laboratoare/lab04/src/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laboratoare/lab04/src/lab04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laboratoare/lab04/src/out/production/lab04/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laboratoare/lab04/src/out/production/lab04/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laboratoare/lab04/src/out/production/lab04/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laboratoare/lab04/src/out/production/lab04/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laboratoare/lab04/src/out/production/lab04/bug1/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laboratoare/lab04/src/out/production/lab04/bug1/MyThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laboratoare/lab04/src/out/production/lab04/bug2/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laboratoare/lab04/src/out/production/lab04/bug2/MyThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laboratoare/lab04/src/out/production/lab04/bug3/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laboratoare/lab04/src/out/production/lab04/bug3/MyThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laboratoare/lab04/src/out/production/lab04/bug4/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laboratoare/lab04/src/out/production/lab04/bug5/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laboratoare/lab04/src/out/production/lab04/bug5/MyThreadA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laboratoare/lab04/src/out/production/lab04/bug5/MyThreadB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laboratoare/lab04/src/out/production/lab04/bug6/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laboratoare/lab04/src/out/production/lab04/bug6/MyThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laboratoare/lab04/src/out/production/lab04/bug6/Singleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laboratoare/lab04/src/out/production/lab04/doubleVectorElements/DoubleThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laboratoare/lab04/src/out/production/lab04/doubleVectorElements/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laboratoare/lab04/src/out/production/lab04/lab04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laboratoare/lab04/src/out/production/lab04/shortestPathsFloyd_Warshall/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laboratoare/lab04/src/out/production/lab04/shortestPathsFloyd_Warshall/ParallelFloydWarshallThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laboratoare/lab04/src/out/production/threadCoreCnt/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laboratoare/lab04/src/out/production/threadCoreCnt/MyThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laboratoare/lab04/src/threadCoreCnt/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laboratoare/lab04/src/threadCoreCnt/threadCoreCnt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laboratoare/lab07/src/task1/ref" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laboratoare/lab07/src/task2/ref" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laboratoare/lab03/merge.c" beforeDir="false" afterPath="$PROJECT_DIR$/../laboratoare/lab03/merge.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laboratoare/lab03/oets.c" beforeDir="false" afterPath="$PROJECT_DIR$/../laboratoare/lab03/oets.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laboratoare/lab03/shear.c" beforeDir="false" afterPath="$PROJECT_DIR$/../laboratoare/lab03/shear.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laboratoare/lab03/test_oets.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../laboratoare/lab03/test_oets.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laboratoare/lab03/test_shear.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../laboratoare/lab03/test_shear.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laboratoare/lab04/src/bug1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../laboratoare/lab04/src/bug1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laboratoare/lab04/src/bug2/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../laboratoare/lab04/src/bug2/MyThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laboratoare/lab04/src/bug3/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../laboratoare/lab04/src/bug3/MyThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laboratoare/lab04/src/bug4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../laboratoare/lab04/src/bug4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laboratoare/lab04/src/bug5/MyThreadA.java" beforeDir="false" afterPath="$PROJECT_DIR$/../laboratoare/lab04/src/bug5/MyThreadA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laboratoare/lab04/src/bug5/MyThreadB.java" beforeDir="false" afterPath="$PROJECT_DIR$/../laboratoare/lab04/src/bug5/MyThreadB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laboratoare/lab04/src/bug6/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/../laboratoare/lab04/src/bug6/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laboratoare/lab04/src/doubleVectorElements/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../laboratoare/lab04/src/doubleVectorElements/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laboratoare/lab04/src/shortestPathsFloyd_Warshall/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../laboratoare/lab04/src/shortestPathsFloyd_Warshall/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laboratoare/lab05/src/oneProducerOneConsumer/Buffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../laboratoare/lab05/src/oneProducerOneConsumer/Buffer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laboratoare/lab06/src/bugConcurrentHashMap/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../laboratoare/lab06/src/bugConcurrentHashMap/MyThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laboratoare/lab06/src/multipleProducersMultipleConsumers/Buffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../laboratoare/lab06/src/multipleProducersMultipleConsumers/Buffer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laboratoare/lab06/src/synchronizationProblem/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../laboratoare/lab06/src/synchronizationProblem/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laboratoare/lab06/src/synchronizationProblem/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../laboratoare/lab06/src/synchronizationProblem/MyThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laboratoare/lab06/src/synchronizedSortedList/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../laboratoare/lab06/src/synchronizedSortedList/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laboratoare/lab06/src/synchronizedSortedList/Reader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../laboratoare/lab06/src/synchronizedSortedList/Reader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laboratoare/lab07/src/task1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../laboratoare/lab07/src/task1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laboratoare/lab07/src/task2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../laboratoare/lab07/src/task2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laboratoare/lab08/ex1/ex1.c" beforeDir="false" afterPath="$PROJECT_DIR$/../laboratoare/lab08/ex1/ex1.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laboratoare/lab08/ex2/ex2.c" beforeDir="false" afterPath="$PROJECT_DIR$/../laboratoare/lab08/ex2/ex2.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laboratoare/lab08/ex3/ex3.c" beforeDir="false" afterPath="$PROJECT_DIR$/../laboratoare/lab08/ex3/ex3.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laboratoare/lab09/broadcast/broadcast.c" beforeDir="false" afterPath="$PROJECT_DIR$/../laboratoare/lab09/broadcast/broadcast.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laboratoare/lab09/polynomial/polynomial.c" beforeDir="false" afterPath="$PROJECT_DIR$/../laboratoare/lab09/polynomial/polynomial.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laboratoare/lab09/reduce/reduce.c" beforeDir="false" afterPath="$PROJECT_DIR$/../laboratoare/lab09/reduce/reduce.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laboratoare/lab09/scan/scan.c" beforeDir="false" afterPath="$PROJECT_DIR$/../laboratoare/lab09/scan/scan.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laboratoare/lab10/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../laboratoare/lab10/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laboratoare/lab10/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../laboratoare/lab10/main.c" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2024" />
+    <option name="minorVersion" value="1.1" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2rJNL4iYxQiJCS75EW99YeLFpPV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/dominic/Documents/faculate_sem_5/APD/tema2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5328c4e-e198-45d4-95d5-7073bdee142d" name="Changes" comment="" />
+      <created>1736273158281</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736273158281</updated>
+      <workItem from="1736273159304" duration="8879000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+</project>
